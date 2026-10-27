@@ -6,5 +6,12 @@
     "url": "https://juiceon24.com/board/free/list.html?board_no=5",
     "pages": 2,
     "enabled": true
+  },
+  {
+    "name": "베이핑존",
+    "type": "cafe24",
+    "url": "https://vapingzone.kr/board/free/list.html?board_no=101",
+    "pages": 2,
+    "enabled": true
   }
 ]
